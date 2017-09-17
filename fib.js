@@ -14,8 +14,4 @@ break;
 return(a);
 }
 
-var c=new Array(fibo());
-var n=c.length;
-
-console.log(c);
 module.exports=fibo;
